@@ -62,7 +62,7 @@ Handles user input, prints the initial board, solves the puzzle, and prints the 
 
 <strong> EXAMPLE </strong>
 <br>
-  **************WELCOME TO GRID GENIUS*********************
+ *WELCOME TO GRID GENIUS*
 <br>
 Enter the Sudoku puzzle (use 0 for empty cells):
 <br>
